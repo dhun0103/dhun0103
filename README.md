@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
  ✔공부는 블로그에 차곡차곡
  https://dhun.tistory.com/
 
- 현재 2학년이며, 좋은 개발자가 되기 위해, 좋은 코드를 작성하기 위해 매일 노력하고 있습니다! 😁
+ 현재 대학생이며, 좋은 개발자가 되기 위해, 좋은 코드를 작성하기 위해 매일 노력하고 있습니다! 😁
 
  ### About me ✨
 
